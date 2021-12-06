@@ -1,5 +1,5 @@
 # Next.js Starter Template
-
+-
 This is a starter template that has a host of goodies and is a great starting place for projects
 <br/>
 <br/>
